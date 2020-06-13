@@ -1,10 +1,7 @@
-[![HitCount](http://hits.dwyl.io/rbhatia46/React-Portfolio.svg)](http://hits.dwyl.io/rbhatia46/React-Portfolio)
+## Bhushan Patel Portfolio
 
+## Live at https://react-portfolio-master.herokuapp.com/
 
-A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
-
-## Preview
-![Preview](M:\CBU 3rd\ReactJS\React-Portfolio-master\react-portfolio-master\title.png)
 
 ## How to use
 1. Clone/Download the repo.
