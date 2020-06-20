@@ -72,24 +72,28 @@ let resumeData = {
     ], */
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Univeristy",
+        "description":"http://graphic.cloudaccess.host/",
+        "imgurl":"images/portfolio/univerisity .jpg",
+        "url":"http://graphic.cloudaccess.host/"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Security",
+        "description":"Security Agency Website",
+        "imgurl":"images/portfolio/security.jpg",
+        "url":"http://hemetgetkeepers.cloudaccess.host/"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Graphic",
+        "description":"Graphic and Social Marketing Agency Website",  
+        "imgurl":"images/portfolio/graphic.jpg",
+        "url":"http://kaka.cloudaccess.host/"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"The Corporate Connection",
+        "description":"The Corporate Connection",
+        "imgurl":"images/portfolio/corporate.jpg",
+        "url":"https://corporate.cloudaccess.host/"
       }
     ],
     /* "testimonials":[
